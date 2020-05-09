@@ -2,26 +2,26 @@
 <testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="63" started-at="2020-05-09T08:29:50Z" finished-at="2020-05-09T08:29:50Z">
+  <suite name="Suite" duration-ms="57" started-at="2020-05-09T08:50:59Z" finished-at="2020-05-09T08:50:59Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="63" started-at="2020-05-09T08:29:50Z" finished-at="2020-05-09T08:29:50Z">
+    <test name="Test" duration-ms="57" started-at="2020-05-09T08:50:59Z" finished-at="2020-05-09T08:50:59Z">
       <class name="testCases.Test2">
-        <test-method status="PASS" signature="test_search()[pri:1, instance:testCases.Test2@15723761]" name="test_search" duration-ms="0" started-at="2020-05-09T08:29:50Z" finished-at="2020-05-09T08:29:50Z">
+        <test-method status="PASS" signature="test_search()[pri:1, instance:testCases.Test2@a0a9fa5]" name="test_search" duration-ms="1" started-at="2020-05-09T08:50:59Z" finished-at="2020-05-09T08:50:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_search -->
-        <test-method status="PASS" signature="test_advSearch()[pri:2, instance:testCases.Test2@15723761]" name="test_advSearch" duration-ms="0" started-at="2020-05-09T08:29:50Z" finished-at="2020-05-09T08:29:50Z">
+        <test-method status="PASS" signature="test_advSearch()[pri:2, instance:testCases.Test2@a0a9fa5]" name="test_advSearch" duration-ms="1" started-at="2020-05-09T08:50:59Z" finished-at="2020-05-09T08:50:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_advSearch -->
       </class> <!-- testCases.Test2 -->
       <class name="testCases.Test1">
-        <test-method status="PASS" signature="test_login()[pri:1, instance:testCases.Test1@a0a9fa5]" name="test_login" duration-ms="12" started-at="2020-05-09T08:29:50Z" finished-at="2020-05-09T08:29:50Z">
+        <test-method status="PASS" signature="test_login()[pri:1, instance:testCases.Test1@4565a70a]" name="test_login" duration-ms="10" started-at="2020-05-09T08:50:59Z" finished-at="2020-05-09T08:50:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_login -->
-        <test-method status="PASS" signature="test_logout()[pri:2, instance:testCases.Test1@a0a9fa5]" name="test_logout" duration-ms="0" started-at="2020-05-09T08:29:50Z" finished-at="2020-05-09T08:29:50Z">
+        <test-method status="PASS" signature="test_logout()[pri:2, instance:testCases.Test1@4565a70a]" name="test_logout" duration-ms="0" started-at="2020-05-09T08:50:59Z" finished-at="2020-05-09T08:50:59Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_logout -->
